@@ -1,0 +1,5 @@
+import Component
+Component.myfun()
+
+
+
